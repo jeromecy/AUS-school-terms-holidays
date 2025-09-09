@@ -5,7 +5,7 @@ This repository provides a public iCalendar (.ics) file containing the **Western
 
 📚 **Source**
 
-This calendar is based on the official WA government term dates: [https://www.education.wa.edu.au/future-term-dates](https://www.education.wa.edu.au/future-term)
+This calendar is based on the official WA government term dates: [https://www.education.wa.edu.au/future-term-dates](https://www.education.wa.edu.au/future-term-dates) 
 
 📅 **Subscribe to the Calendar**
 
