@@ -3,6 +3,10 @@
 
 This repository provides a public iCalendar (.ics) file containing the **Western Australia (WA) public school term start and end dates** from **2025 to 2030**.
 
+📚 **Source**
+
+This calendar is based on the official WA government term dates: [https://www.education.wa.edu.au/future-term-dates](https://www.education.wa.edu.au/future-term)
+
 📅 **Subscribe to the Calendar**
 
 You can subscribe to the calendar on your iPhone, iPad, Mac, or any calendar app that supports iCal format.
@@ -31,5 +35,7 @@ The calendar will now appear in your Calendar app and automatically update when 
 If you notice any errors or want to add other states (e.g. NSW, VIC), feel free to open an issue or submit a pull request.
 
 ---
+
+
 
 © 2025 by [jeromecy](https://github.com/jeromecy). This project is not affiliated with the WA Department of Education.
